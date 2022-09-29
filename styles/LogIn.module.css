@@ -19,7 +19,7 @@
   border: 1px solid grey;
   border-radius: 8px;
   grid-column: 2;
-  height: 21px;
+  height: 100%;
 }
 .div > form > label {
   grid-column: 1;

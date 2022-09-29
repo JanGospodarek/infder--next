@@ -11,7 +11,7 @@ export default function RegIn(props) {
     e.preventDefault();
     if (
       passwd2.current.value !== passwd.current.value ||
-      passwd.current.value.split("").length < 8
+      passwd.current.value.split("").length < 4
     ) {
       passwd.current.value = "";
       passwd2.current.value = "";
