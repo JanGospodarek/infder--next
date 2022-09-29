@@ -1,0 +1,16 @@
+.button {
+  padding: 13px;
+  border: none;
+  border-radius: 15px;
+  background: linear-gradient(
+    31deg,
+    rgba(233, 21, 128, 1) 28%,
+    rgba(250, 50, 10, 1) 93%
+  );
+
+  font-size: 20px;
+  transition: all 0.1s;
+}
+.button:hover {
+  transform: scale(1.03);
+}

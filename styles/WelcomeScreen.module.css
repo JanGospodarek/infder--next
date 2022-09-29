@@ -1,0 +1,13 @@
+.welcomeDiv {
+  margin: 0 auto;
+  width: 50vw;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.buttonDiv {
+  margin: 0 auto;
+  width: 70%;
+  display: flex;
+  justify-content: space-evenly;
+}
